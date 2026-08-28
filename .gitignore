@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Generated run output — regenerate with `python3 run.py --dry-run`
+briefs/*.md
+briefs.csv
+runs.sqlite
+faithfulness_worksheet.csv
+
+# Real credentials — never commit
+.env
+
+# Real golden set (may contain real account data) — the example stays tracked
+golden_set.csv

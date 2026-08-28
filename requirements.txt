@@ -1,0 +1,3 @@
+pyyaml>=6.0        # signals.yaml — hard dependency, used even in --dry-run
+jsonschema>=4.0     # optional: schemas.py falls back to a built-in validator if absent
+anthropic>=0.40.0   # only needed for real (non --dry-run) model calls

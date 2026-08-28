@@ -1,0 +1,5 @@
+account_id,name,arr,renewal_date,as_of,outcome
+ACC-HEALTHY-001,Northwind Robotics,240000,2026-08-29,2026-05-01,renewed
+ACC-STALLED-002,Blue Harbor Logistics,180000,2026-08-29,2026-05-01,downgraded
+ACC-ESCALATING-003,Fernbank Health Systems,410000,2026-08-29,2026-05-01,downgraded
+ACC-CHURNING-004,Ridgeline Materials,95000,2026-08-29,2026-05-01,churned
